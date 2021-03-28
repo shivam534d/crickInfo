@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const request = require('request');
 const fs = require('fs');
 const path = require('path');
-const iplFolderName = 'ipl_2020';
+const iplFolderName = 'ipl 2020';
 
 const url =
   'https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results';
